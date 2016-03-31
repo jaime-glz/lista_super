@@ -1,0 +1,52 @@
+/* el punto '.' se utiliza para referice a 'class' */
+/* con '#' se llama a los 'id' */
+.pan {
+	width:300px;
+}
+
+.lacteos {
+	width: 300px
+}
+
+.cereales {
+	width:300px;
+}
+
+
+body{
+	background: url(http://i.giphy.com/bCDR94zhjU6Zi.gif);
+	background-size: 450px;
+}
+
+div h1{
+	background-color: white;
+	text-align: center;
+}
+
+.text{
+	background-color: red;
+}
+
+article{
+	border: 1px solid black;
+}
+
+.borde2{
+	border: 2px solid green;
+}
+
+section{
+	border-left: 3px solid white;
+	border-top: 3px solid white;
+}
+
+.ol{
+	
+}
+
+main{
+	display: flex;
+}
+.pan:hover {
+	
+}
